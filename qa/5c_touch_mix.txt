@@ -1,0 +1,17 @@
+% x,y position
+% r,w radius and weight
+% typ type of cell
+% Tp persistence time
+% rho density of radial actin filaments on cell body # / \mu m
+% bi bound integrin within whole cell (to be gauged)
+% cd cadherin on cell-cell contacts   (to be gauged)
+% my myosin level                     (to be gauged)
+% ps protrusivity, scales stochastic perturbation
+%
+% x     y    r     w    typ Tp    rho    bi     cd     my     ps
+  0.0,  0.0, 2.00, 2.00, 2, 124,  8.11,  1.00,  1.00,  1.00,  1.00
+  0.0, -3.0, 1.00, 1.00, 1, 116,  8.43,  1.00,  1.00,  1.00,  1.00
+  0.0, +9.0, 1.00, 1.00, 1, 116,  8.43,  1.00,  1.00,  1.00,  1.00
+ -9.0,  0.0, 1.00, 1.00, 1, 116,  8.43,  1.00,  1.00,  1.00,  1.00
+  3.0,  0.0, 1.00, 1.00, 1, 116,  8.43,  1.00,  1.00,  1.00,  1.00
+
